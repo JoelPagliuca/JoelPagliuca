@@ -1,9 +1,8 @@
-### Hello there
+```diff
++ 👋️👋️ Hello there
+```
+I'm a security engineer 🔓️ -- but also I work on:
 
-Types of projects I usually work on:
-- Security automation
-- Pentest tooling
-- Golang CLIs/Web APIs
-- Jankops
+devops 🏗️, clis/web apis 🖥️, pentest tooling 🛠️ and jankops 🔨️
 
-Currently learning game dev with `godot`
+currently learning gamedev 🎮️ with `godot`
